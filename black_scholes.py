@@ -1,5 +1,5 @@
 # Compute Black-Scholes option value using a binomial tree - European case
-# vectorized code - should be faster!
+# vectorized code
 
 import numpy as np
 

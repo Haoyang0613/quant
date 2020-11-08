@@ -1,2 +1,2 @@
-# fintech
-Hmmm this is where I post random fintech stuff
+# quant
+Hmmm this is where I post random quantitative analysis codes

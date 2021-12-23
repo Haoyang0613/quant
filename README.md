@@ -1,2 +1,2 @@
 # quant
-Hmmm this is where I post random quantitative analytical tools
+Hmmm this is where I post random tools for quantitative research.
